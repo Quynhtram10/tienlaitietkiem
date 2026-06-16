@@ -1,5 +1,5 @@
 import streamlit as st
-st.ist.image("IMG_4373.jpeg")
+st.image("IMG_4373.jpeg")
 # Tiêu đề ứng dụng
 st.title("💰 Ứng dụng tính tiền gửi tiết kiệm_Đề tài 5_ Phan Ngọc Quỳnh Trâm")
 
